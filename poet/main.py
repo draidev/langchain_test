@@ -4,11 +4,11 @@
 # from langchain.llms import OpenAI
 # from langchain.chat_models import ChatOpenAI
 
-# model = ChatOpenAI(openai_api_key="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")
+# model = ChatOpenAI(openai_api_key="...")
 # content="인간"
 
 # result = model.predict(content)
-# #llm = OpenAI(openai_api_key="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")
+# #llm = OpenAI(openai_api_key="...")
 
 # #result = llm.predict("hi")
 # print(result)
